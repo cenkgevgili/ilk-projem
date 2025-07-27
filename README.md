@@ -1,2 +1,3 @@
 # ilk-projem
-Bu benim ilk projemdir.
+
+Bu benim ilk projemdir
